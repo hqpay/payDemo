@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- item 的top left right bottom 相当于margin 设置不需要的边为负值 -->
+    <item
+        android:left="0dp"
+        android:top="0dp"
+        android:bottom="0dp"
+        android:right="0dp">
+        <shape>
+            <!-- 背景颜色 -->
+            <solid android:color="#EFF5FD" />
+            <!-- 边框颜色 -->
+            <stroke
+                android:width="0dp"
+                android:color="#EFF5FD" />
+        </shape>
+    </item>
+</layer-list>
