@@ -36,9 +36,9 @@ Android SDK 要求 Android 4.4 及以上版本 请使用 Java 8 或以上版本
 
 (注：依赖渠道 SDK 时，可能会和其他第三方SDK有冲突，移除依赖冲突的包就可以)
 
-####Gradle 导入方式
+#### Gradle 导入方式
 
-#####修改项目的 build.gradle 文件，添加 github 仓库地址
+##### 修改项目的 build.gradle 文件，添加 github 仓库地址
 ```
 allprojects {
 		repositories {
