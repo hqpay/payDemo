@@ -12,8 +12,9 @@
 	* [4.5创建对象调起支付](#4.5)
 
 ![avatar](/picture/WechatIMG78.jpeg)
-![avatar](/picture/WechatIMG79.jpeg)
+![avatar](/picture/WechatIMG79.png)
 ![avatar](/picture/WechatIMG80.jpeg)
+![avatar](/picture/1548124381057.jpg)
 <h1 id="1">简介</h1>
 
 项目只是个Demo,只需要在build.gradle中添加依赖,正确的传参就可以正常的使用.
